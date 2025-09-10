@@ -11,11 +11,11 @@ const HowItWorks = () => {
       />
       <section className="w-full border-y">
         <section className="mx-auto grid grid-cols-3 max-w-6xl border-x  items-center justify-center">
-          <section className=" aspect-square flex flex-col items-center justify-center gap-3">
+          <section className=" aspect-square border-r flex flex-col items-center justify-center gap-3">
             <h2>Product Management</h2>
             <p>Manage all your products in one place</p>
           </section>
-          <section className="col-span-1 aspect-square">
+          <section className="col-span-1  border-r aspect-square">
             <h2>Product Management</h2>
             <p>Manage all your products in one place</p>
           </section>

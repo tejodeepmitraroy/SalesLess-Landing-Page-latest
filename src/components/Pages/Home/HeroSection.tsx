@@ -25,7 +25,7 @@ const HeroSection = () => {
             transition={{ duration: 0.7, delay: 0.2, ease: "easeInOut" }}
             className="xl:text-7xl xl:font-semibold "
           >
-            Take Control of Your Digital Assets
+            Finally, a CRM That Works Everywhere You Do
           </motion.h1>
           <motion.p
             animate={{ y: 0, opacity: 1 }}
@@ -62,7 +62,7 @@ const HeroSection = () => {
       </section>
 
       <section className="mx-auto w-full mt-52 h-full text-center  max-w-6xl ">
-        <TextAnimate className="text-5xl text-primary font-semibold leading-[52px]">
+        <TextAnimate className="text-5xl text-primary text-center font-semibold leading-[52px]">
           Simplicity, performance, and security, empowering you to navigate the
           digital world with confidence and agility.
         </TextAnimate>

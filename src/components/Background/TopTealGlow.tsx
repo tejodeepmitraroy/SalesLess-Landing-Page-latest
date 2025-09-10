@@ -1,6 +1,3 @@
-import React from "react";
-import SmoothScrolling from "../Layout/SmoothScrolling";
-
 const TopTealGlowBgWrapper = ({ children }: { children: React.ReactNode }) => {
   return (
     <div className="min-h-screen  w-full bg-transparent relative">

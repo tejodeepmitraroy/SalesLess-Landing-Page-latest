@@ -1,9 +1,9 @@
-import React from "react";
-
 const SectionEnd = () => {
   return (
-    <section className="w-full h-40 ">
-      <section className="mx-auto h-full  max-w-6xl border-x w-full "></section>
+    <section className="w-full h-40 px-6 md:px-0">
+      <section className="mx-auto h-full  max-w-6xl  w-full ">
+        <section className="w-full h-full border-x"></section>
+      </section>
     </section>
   );
 };

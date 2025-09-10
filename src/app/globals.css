@@ -180,7 +180,7 @@
     @apply md:text-center text-3xl  font-semibold  md:text-4xl lg:text-5xl  dark:text-white;
   }
   h2 {
-    @apply text-center  text-4xl leading-[38.5px] md:text-5xl font-light md:leading-[52.8px]     dark:text-white;
+    @apply text-center  text-4xl leading-[38.5px] md:text-4xl font-light md:leading-[52.8px]     dark:text-white;
   }
   h3 {
     @apply md:text-[2.9rem] md:leading-[54px] text-2xl  font-bold dark:text-white;
@@ -192,6 +192,6 @@
     @apply text-center  md:text-2xl text-base  font-medium text-black dark:text-white;
   }
   p {
-    @apply text-base text-muted-foreground/50  md:text-lg text-center font-medium text-balance leading-[1.6rem];
+    @apply text-base text-muted-foreground/50  md:text-lg text-center font-medium  leading-[1.6rem];
   }
 }

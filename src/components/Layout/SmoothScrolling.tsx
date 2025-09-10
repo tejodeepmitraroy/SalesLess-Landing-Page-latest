@@ -1,6 +1,6 @@
 "use client";
-import ReactLenis, { LenisRef } from "lenis/react";
-import React, { useEffect, useRef } from "react";
+import ReactLenis, { type LenisRef } from "lenis/react";
+import { useEffect, useRef } from "react";
 import { cancelFrame, frame } from "motion/react";
 
 const SmoothScrolling = ({
