@@ -18,7 +18,6 @@ export default function Home() {
       <Features />
       <Integrations />
       <HowItWorks />
-      <HowItWorks />
       <Pricing />
       <Faq />
       <CTABanner />
